@@ -14,5 +14,8 @@ After install, go to https://YOUR_IP/openxpki/
 ## Prerequisite
 - Debian 10
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/36522826/201893982-d74c313d-6753-487b-a1a8-245ba2606958.png)
+
 ## Reference
 - https://openxpki.readthedocs.io/en/stable/quickstart.html
